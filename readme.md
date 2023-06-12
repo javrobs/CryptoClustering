@@ -17,5 +17,5 @@ ___
 ### Principal component analysis
 ![Elbow curve for PCA](Images/elbow_PCA.png)  
 _Elbow curve for original data: The optimal value for k is still 4._
-![Plot clustering PCA](Images/cluster_pca.png)  
+![Plot clustering PCA](Images/cluster_PCA.png)  
 _Clustering for PCA: The data has less overlap, numbers are closer to each other and further from the other categories._  
